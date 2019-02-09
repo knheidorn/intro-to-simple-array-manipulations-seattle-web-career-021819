@@ -26,3 +26,10 @@ def shift_with_args(array)
   array_5
 end
 
+def using_concat
+  
+end
+
+def using_insert(array, element)
+  
+end
