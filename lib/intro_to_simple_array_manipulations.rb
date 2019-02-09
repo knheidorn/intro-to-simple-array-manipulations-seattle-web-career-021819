@@ -20,3 +20,9 @@ def using_shift(array)
   array_4 = array.shift
   array_4
 end
+
+def shift_with_args(array)
+  array_5 = array.shift(2)
+  array_5
+end
+
